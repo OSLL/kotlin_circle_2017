@@ -1,7 +1,6 @@
 package K0_kotlin_intro
 
-object StringsExample {
-    @JvmStatic
+
     fun main(args: Array<String>) {
         val testString = "Это моя новая строка"
         println("testString = " + testString)
@@ -39,4 +38,3 @@ object StringsExample {
 
 
     }
-}

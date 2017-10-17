@@ -3,8 +3,6 @@ package K0_kotlin_intro
 import java.util.Random
 import java.util.Scanner
 
-object NumberInArray {
-    @JvmStatic
     fun main(args: Array<String>) {
         val randomNumbers = getRandomNumbers(100)
         printElements(randomNumbers)
@@ -79,4 +77,3 @@ object NumberInArray {
         }
         return count
     }
-}
