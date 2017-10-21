@@ -1,4 +1,4 @@
-package K0_kotlin_intro
+package K2_simple_OOP
 
 class Planet {
     var averageRadius: String? = null

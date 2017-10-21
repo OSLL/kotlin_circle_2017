@@ -1,4 +1,4 @@
-package K0_kotlin_intro
+package K1_kotlin_intro
 
 
 fun main(args: Array<String>){

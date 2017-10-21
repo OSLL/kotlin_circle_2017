@@ -1,4 +1,4 @@
-package K0_kotlin_intro
+package K1_kotlin_basics
 
 
 import java.util.Scanner

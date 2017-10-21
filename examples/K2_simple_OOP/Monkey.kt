@@ -1,4 +1,4 @@
-package K0_kotlin_intro
+package K2_simple_OOP
 
 open class Monkey constructor(var name: String, var age: Int)
 //Более лаконичное объявление, чем в Planet

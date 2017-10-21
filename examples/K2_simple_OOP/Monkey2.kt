@@ -1,4 +1,4 @@
-package K0_kotlin_intro
+package K2_simple_OOP
 
 open class Monkey2 : MammalInterface {
     private val name: String? = null
