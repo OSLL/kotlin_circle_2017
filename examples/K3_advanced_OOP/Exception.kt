@@ -1,4 +1,4 @@
-package K2_simple_OOP
+package K3_advanced_OOP
 
 import java.lang.Integer.parseInt
 
