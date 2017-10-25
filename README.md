@@ -9,3 +9,28 @@
 
 * [Руководство по языку Kotlin](https://kotlinlang.ru/)
 * [(EN)Reference - Kotlin Programming Language](https://kotlinlang.org/docs/reference/)
+
+## Команды
+
+### brootkiddie
+
+https://github.com/lunakoly/Brootkiddie/
+
+Участники:
+* Николай Луняк
+* Вадим Салаватов 
+* Дмитрий Харлапенко
+* Сергей Зимин
+
+### Space_Hunters
+
+https://github.com/artyomnurgaliev/Space_Hunters
+
+Участники:
+
+* Нургалиев Артём, 
+* Нургалиев Тимур, 
+* Бей Святослав, 
+* Смирнов Михаил.
+
+
