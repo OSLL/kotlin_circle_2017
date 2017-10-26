@@ -34,3 +34,13 @@ https://github.com/artyomnurgaliev/Space_Hunters
 * Смирнов Михаил.
 
 
+### JetBrains_Project
+
+https://github.com/Rwolfx/JetBrains_Project
+
+Участники:
+
+* Ширшин Даниил 
+* Козар Илья
+* Абдурахманов Рауль 
+* Илья Певко
