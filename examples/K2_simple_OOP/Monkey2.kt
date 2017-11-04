@@ -11,3 +11,4 @@ open class Monkey2 : MammalInterface {
     val isCheeksPresent: Boolean
         get() = isCheeksPresent
 }
+///Good day, sir. I am mr. Conflict
