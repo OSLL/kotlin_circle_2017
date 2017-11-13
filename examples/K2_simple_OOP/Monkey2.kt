@@ -10,4 +10,8 @@ open class Monkey2 : MammalInterface {
     // все поля интерфейса доступны наследникам
     val isCheeksPresent: Boolean
         get() = isCheeksPresent
+
+
+
+                ./klklklk////
 }
