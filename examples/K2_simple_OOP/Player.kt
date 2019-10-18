@@ -1,7 +1,7 @@
-data class Player(var name: String, var _class:String, var dex:Int = 1,
+class Player(var name: String, var _class:String, var dex:Int = 1,
              var str: Int = 1, var lvl:Int = 1, var maxHP:Int = 10,
              var nextLvlXP: Int= 10, var XP:Int = 0, var HP:Int = 10){
-    private fun lvlUp(){
+    fun lvlUp(){
         lvl+=1
         str += if (lvl % 2 == 0) 1 else 0
         dex += if (lvl % 2 == 1) 1 else 0
